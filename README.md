@@ -25,15 +25,15 @@ Application de prédiction des classes de fleurs d'Iris utilisant un modèle XGB
 ### Démarrage rapide
 
 ```bash
-  git clone https://github.com/QL2111/mlops_iris.git
-  cd mlops_iris
+git clone https://github.com/QL2111/mlops_iris.git
+cd mlops_iris
 ```
 
 ```bash
 docker-compose up --build
 ```
 
-Avec Docker et un fichier `.env` contenant une clé Mistral :  
+Avec Docker hun  
 
 ```bash
 docker pull ql2111/mlops_iris:latest
