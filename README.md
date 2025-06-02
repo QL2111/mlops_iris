@@ -41,7 +41,7 @@ docker pull ql2111/mlops_iris:latest
 
 ### Accès
 - **Interface utilisateur** : http://localhost:8501
-- **API** : http://localhost:8000
+- **API** : http://localhost:8000/redoc
 
 ## Fonctionnalités
 
